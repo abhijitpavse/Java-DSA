@@ -29,6 +29,7 @@ Ideal for **coding interviews, competitive programming, and skill improvement** 
 
 ## 🗂 Folder Structure
 
+```
 Java-DSA/
 ├── Arrays/
 ├── Strings/
@@ -41,7 +42,4 @@ Java-DSA/
 ├── DynamicProgramming/
 ├── SortingSearching/
 └── Miscellaneous/
-
-
-
-
+```
