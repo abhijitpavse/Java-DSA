@@ -29,14 +29,15 @@ Ideal for **coding interviews, competitive programming, and skill improvement** 
 
 ## 🗂 Folder Structure
 Java-DSA/
-│── Arrays/
-│── Strings/
-│── LinkedList/
-│── Stack/
-│── Queue/
-│── Trees/
-│── Graphs/
-│── Recursion/
-│── DynamicProgramming/
-│── SortingSearching/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── Recursion/
+├── DynamicProgramming/
+├── SortingSearching/
 └── Miscellaneous/
+
